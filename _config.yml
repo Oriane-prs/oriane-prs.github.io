@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oriane Pierrès"
-  avatar           : ![Oriane Pierrès a smiling young woman with short dark hair mountain background] ("oriane-smiling-mountain-background.jpg")
+  name             : "Oriane Pierrès a smiling young woman with short dark hair mountain background"
+  avatar           : "oriane-smiling-mountain-background.jpg"
   bio              : "I am PhD candidate in AI ethics at the University of Zurich and a research assistant at the Zurich University of Applied Sciences (ZHAW)."
   location         : "Winterthur / Zurich"
   employer         :
