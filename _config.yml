@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oriane Pierrès's Personal Website"
+title                    : "Oriane Pierrès's Website"
 title_separator          : "-"
 name                     : &name "Oriane Pierrès"
 description              : &description "PhD candidate in AI Ethics at the University of Zurich and Research assistant at the ZHAW"
