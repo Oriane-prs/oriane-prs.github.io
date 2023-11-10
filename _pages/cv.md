@@ -11,31 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in European Studies, Université Blaise Pascal, Clermont-Ferrand (France) 2016
+* M.A. in Politics and Public Administration, University of Konstanz, Constance (Germany), 2020
+* Ph.D in Biomedical Ethics and Law (Medical Track), University of Zurich (Switzerland), 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* From 01/06 (current position): Research Assistant
+  * Zurich University of Applied Sciences (ZHAW), School of Engineering, Winterthur 
+  * Involved in two swissuniversities-financed projects on digital accessibility in higher education
+  * Activities: qualitative research on accessibility in higher education, supervision of students' thesis, teaching assistant, organization and implementation of workshops on content accessibility, accessibility testing
+ 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +40,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
