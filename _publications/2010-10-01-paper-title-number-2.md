@@ -1,4 +1,4 @@
-d---
+---
 title: "The state of scientific PDF accessibility in repositories A survey in Switzerland"
 collection: publications
 permalink: /publication/2023-09-07-state-PDF-Swiss-respositories
