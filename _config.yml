@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Oriane Pierrès's Website"
 title_separator          : "-"
 name                     : &name "Oriane Pierrès"
-description              : &description "AI Ethics, Digital Accissibility, Inclusion of Students with Disabilities in Higher Education"
+description              : &description "AI Ethics, Digital Accessibility, Inclusion of Students with Disabilities in Higher Education"
 url                      : https://oriane-prs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oriane-prs/oriane-prs.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Oriane Pierrès"
   avatar           : "oriane-smiling-mountain-background.jpg"
-  bio              : "I am PhD candidate in AI ethics at the University of Zurich and a research assistant at the Zurich University of Applied Sciences (ZHAW)."
+  bio              : "AI Ethics, Digital Accessibility, Inclusion of Students with Disabilities in Higher Education"
   location         : "Winterthur / Zurich"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=XxJUouEAAAAJ"
