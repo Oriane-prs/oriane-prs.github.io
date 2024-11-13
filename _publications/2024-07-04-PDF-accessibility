@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2024-07-04-PDF-accessibility
 excerpt: 'Academic articles are commonly published in Portable Document Format (PDF). However, for many people with visual impairments, PDF formats present significant accessibility issues. This study addresses two research questions: 1) To what extent are PDFs in prominent academic repositories accessible? and 2) To what extent are accessibility issues in academic articles known and addressed by repositories? To answer these questions, 8,000 PDFs from four prominent repositories (Springer, Elsevier, ACM, and Wiley) were retrieved and were automatically analysed according to accessibility criteria based on the Matterhorn Protocol. Additionally, a quantitative content analysis was performed on the submission guidelines of repositories to determine the degree to which accessibility is considered in document creation. Results suggest that most PDFs were not tagged in spite of the fact that some repositories included accessibility in their general author guidelines. This paper concludes with recommendations to improve the accessibility of papers in academic repositories.'
 date: 2024-07-04
-venue: 'ICCHP 2024'
+venue: 'ICCHP Conference'
 paperurl: ''
 citation: 'Pierrès, O., Schmitt-Koopmann, F., Darvishy, A. (2024). PDF Accessibility in International Academic Publishers. In: Miesenberger, K., Peňáz, P., Kobayashi, M. (eds) Computers Helping People with Special Needs. ICCHP 2024. Lecture Notes in Computer Science, vol 14750. Springer, Cham. https://doi.org/10.1007/978-3-031-62846-7_5'
 ---
