@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* From 01/05/2025 (Current position): Post-doctoral research
+* From 01/05/2025 (Current position): Post-doctoral researcher
   * University of Zürich, Digital Society Initiative, Zurich
   * Accompanies the AI Buddy project
   * Activities: UX research, support in communication, teaching, accessibility auditing and training
