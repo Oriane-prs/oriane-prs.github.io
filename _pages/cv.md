@@ -11,13 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.A. in European Studies, Université Blaise Pascal, Clermont-Ferrand (France) 2016
+* Ph.D in Biomedical Ethics and Law (Medical Track), University of Zurich (Switzerland), 2025
 * M.A. in Politics and Public Administration, University of Konstanz, Constance (Germany), 2020
-* Ph.D in Biomedical Ethics and Law (Medical Track), University of Zurich (Switzerland), 2025 (expected)
+* B.A. in European Studies, Université Blaise Pascal, Clermont-Ferrand (France) 2016
 
 Work experience
 ======
-* From 01/06 (current position): Research Assistant
+* From 01/05/2025 (Current position): Post-doctoral research
+  * University of Zürich, Digital Society Initiative, Zurich
+  * Accompanies the AI Buddy project
+  * Activities: UX research, support in communication, teaching, accessibility auditing and training
+* From 01/06/2021 to 31/12/2024: Research Assistant
   * Zurich University of Applied Sciences (ZHAW), School of Engineering, Winterthur 
   * Involved in two swissuniversities-financed projects on digital accessibility in higher education
   * Activities: qualitative research on accessibility in higher education, supervision of students' thesis, teaching assistant, organization and implementation of workshops on content accessibility, accessibility testing
