@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Oriane Pierrès's Website"
 title_separator          : "-"
-name                     : &name "Oriane Pierrès"
+name                     : &name "Dr. Oriane Pierrès"
 description              : &description "AI Ethics, Digital Accessibility, Inclusion of Students with Disabilities in Higher Education"
 url                      : https://oriane-prs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   name             : "Oriane Pierrès"
   avatar           : "oriane-smiling-mountain-background.jpg"
   bio              : "AI Ethics, Digital Accessibility, Inclusion of Students with Disabilities in Higher Education"
-  location         : "Winterthur / Zurich"
+  location         : "Zurich"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=XxJUouEAAAAJ"
   email            :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  #github           : "oriane-prs"
+  github           : "oriane-prs"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/orianepierres/"
   orcid            : "https://orcid.org/0000-0002-8639-2492"
   pinterest        :
   soundcloud       :
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "OrianePierres"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
