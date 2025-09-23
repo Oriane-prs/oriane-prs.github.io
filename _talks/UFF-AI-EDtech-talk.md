@@ -2,7 +2,7 @@
 title: "AI EdTech: Opportunity of Risk for Students with Disabilities?"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-04-27-talk-1
+permalink: /talks/2023-04-27-talk-1/
 venue: "University Future Festival 2023"
 date: 2023-04-27
 location: "Heilbronn, Germany and online"
