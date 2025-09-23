@@ -14,7 +14,7 @@ As part of the [AI Buddy project](https://www.ai-buddy.uzh.ch/en.html), my resea
 
 Are you interested in doing research on AI and digital accessibility and/or diversity in higher education? Are you looking for an additional supervisor for your thesis? 
 <div style="text-align: center;">
-<a href="mailto:oriane.pierres@dsi.uzh.ch" class="btn">Reach out via email!</a>
+<a href="mailto:oriane.pierres@dsi.uzh.ch" class="btn" style="text-decoration:none;">Reach out via email!</a>
 </div>
 
 
