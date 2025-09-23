@@ -2,7 +2,7 @@
 title: "Workshop: OER accessibility"
 collection: talks
 type: "Workshop"
-permalink: /talks/2023-04-28-talk-2
+permalink: /talks/2023-04-28-talk-2/
 venue: "University Future Festival"
 date: 2023-04-28
 location: "Online"
