@@ -12,5 +12,4 @@ Hi! I am post-doctoral research at the [Digital Society Initiative](https://www.
 
 As part of the [AI Buddy project](https://www.ai-buddy.uzh.ch/en.html), my research aims to better understand how to design and implement an AI assistant in higher education in an inclusive manner. While many new technologies (e.g. writing assistants, automatic captioning, etc.) can enhance the autonomy of students and eleviate barriers in tertiary education, ethical issues such as bias, privacy breach, exclusion, low accuracy and alike can reduce their benefits. Identifying issues and critically reflecting on them should not lead to inaction, but a discussion towards solutions that work for everybody. 
 
-
-
+Are you interested in doing research on AI and digital accessibility and/or diversity in higher education? Are you looking for an additional supervisor for your thesis? Do not hesitate to [reach out via email](oriane.pierres@dsi.uzh.ch).
